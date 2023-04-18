@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Melanoma Dectection
+> We build a multiclass classification model using a custom convolutional neural network in TensorFlow to detect 9 different variants of Melanoma cancer.
 
 
 ## Table of Contents
